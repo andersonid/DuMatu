@@ -1,4 +1,4 @@
-# Plataforma DuMatu
+# DuMatu App
 Fomentando sustentabilidade
 
 > O projeto é concebido e desenvolvido por Anderson Nobre e Marcelo Mundim, como demanda da Universidade Anhembi Morumbi, do curso de Design Digital, 5.semestre.
